@@ -1,4 +1,5 @@
 flask
 flask-cors
-yt-dlp
 gunicorn
+werkzeug
+yt-dlp @ git+https://www.google.com/search?q=https://github.com/yt-dlp/yt-dlp.git%40master
